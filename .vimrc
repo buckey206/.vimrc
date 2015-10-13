@@ -1,7 +1,8 @@
 "USABILITY CONFIGURATION ----------------------
 "  Basic and pretty much needed settings to provide a solid base for
 "  source code editting
-
+"install vundle with git clone 
+"$ git clone https://github.com/VundleVim/Vundle.vim.git 
 " don't make vim compatible with vi 
 set nocompatible
 
